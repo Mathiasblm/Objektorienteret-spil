@@ -15,5 +15,5 @@ Griddet har også en metode (overGameWorld).
 
 I vores Snake main.js har vi gjordt så alle vores variabler refferere til vores objekter.
 
-Der ud over prøvede vi at gøre spillet 2-player, ved at adde en snake_2. Det gjorde bare at nogle af funktionerne
+Derudover prøvede vi at gøre spillet 2-player, ved at adde en snake_2. Det gjorde bare at nogle af funktionerne
 ikke virkede, så vi lavede det tilbage til et orginalt snake game.
